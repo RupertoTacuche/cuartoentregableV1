@@ -25,7 +25,7 @@ useEffect(() => {
   return (
     <main className="font-sans"> 
       <Header /> 
-      <Modal isShowForm={isShowForm}/>
+      <Modal isShowForm={isShowForm}/> 
     </main>
   )
 }
